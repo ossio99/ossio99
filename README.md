@@ -1,3 +1,5 @@
+<div align="center"><img src="https://media.giphy.com/media/XPgWHIXKs6iikOx5a1/giphy.gif"/></div>
+
 # console.log("Hi there 👋");
 Hola, soy un full-stack web developer, apasionado del desarrollo de software  
   
