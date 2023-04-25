@@ -1,4 +1,4 @@
-# console.log("Hi there 👋");
+# console.log("hi there 👋");
 Hola, soy un full-stack web developer, apasionado del desarrollo de software 
 <div><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/></div>
  
