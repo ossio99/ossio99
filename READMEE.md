@@ -1,5 +1,5 @@
 # console.log("hi there 👋");
-Hola, soy un frontend web developer
+Hi, i'm a frontend web developer ;)
 <div><img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/></div>
  
   
